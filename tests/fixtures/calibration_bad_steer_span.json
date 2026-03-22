@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "steer_neutral_us": 1500.0,
+  "steer_min_us": 1494.0,
+  "steer_max_us": 1500.0,
+  "throttle_min_us": 1300.0,
+  "throttle_max_us": 1700.0
+}
